@@ -1,6 +1,7 @@
 ## Citi terminu avoti:
 Jāņa Zutera ar neironu tīkliem saistīto terminu vārdnīca:  
 http://home.lu.lv/~janiszu/courses/eanns/annsdictionary.pdf
+
 Oficiālais terminu portāls:
 https://termini.gov.lv/
 
@@ -30,6 +31,7 @@ feed-forward |  priekšpadeves
 finite state transducer | galīgā stāvokļa pārveidotājs
 indirect identifier | netiešais identifikators
 intent | nolūks
+inter-annotator agreement | marķētāju vienprātība
 joint many-task model | vairāku uzdevumu modelis
 LAS (labeled attachment score) | marķēta saistījuma mērs
 long-short term memory (LSTM) | gara īstermiņa atmiņa
@@ -37,7 +39,9 @@ LSTM cell | garas īstermiņa atmiņas šūna
 Morphology | Morfoloģija
 Morphosyntactic tag | Morfosintaktiskais tags
 Morphosyntactic tag | Morfosintaktiskā marķēšana
+multi-class | daudzklašu
 named entity | nosauktā entitāte
+named entity mention | nosauktā entitātes atzīme, pieminējums
 named entity recognition (NER) | nosaukto entitāšu atpazīšana
 natural language processing (NLP) | dabiskās valodas apstrāde
 neural network | neironu tīkls
