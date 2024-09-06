@@ -34,11 +34,13 @@ intent | nolūks
 inter-annotator agreement | marķētāju vienprātība
 joint many-task model | vairāku uzdevumu modelis
 LAS (labeled attachment score) | marķēta saistījuma mērs
+linguistic analyser | lingvistiskais analizators
 long-short term memory (LSTM) | gara īstermiņa atmiņa
 LSTM cell | garas īstermiņa atmiņas šūna
+morphological tagger | Morfoloģijas tagotājs (marķētājs)
 Morphology | Morfoloģija
 Morphosyntactic tag | Morfosintaktiskais tags
-Morphosyntactic tag | Morfosintaktiskā marķēšana
+Morphosyntactic tagging | Morfosintaktiskā marķēšana
 multi-class | daudzklašu
 named entity | nosauktā entitāte
 named entity mention | nosauktā entitātes atzīme, pieminējums
